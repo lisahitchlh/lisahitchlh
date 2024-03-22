@@ -1,27 +1,26 @@
 ### Hi there, fellow data-enthusiast 👋
-
+<br>
+<img src = 'https://github.com/lisahitchlh/lisahitchlh/assets/156098598/01fe7989-0ffc-4079-9229-7daca3b0a19f' width="20%">
+<br>
+<br>
 DATA • DESIGN • TEACHING
 
-<!--img src='https://avatars.githubusercontent.com/u/34423757?v=4' width="20%"-->
-
 ---
 
+Who is Lisa?
+* Data Analytics Consultant
+* PhD Student
+* Adjunct Lecturer
 
+<br>
 
----
-
-<!--img src='https://avatars.githubusercontent.com/u/34423757?v=4' width="20%"-->
-
-# Hey, I'm Will 👋
-
-<img align="right" src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/hero-no-background.png?raw=true" alt="Will Sutton" width="20%">
-
-A Data Analytics & Visualisation Expert 📈
-
-I bring data to life with:
-- Tableau
-- SQL
-- Python
+I make data easy to understand with:
+* Alteryx
+* Tableau
+* R
+* SAS
+* PowerBI
+* SQL
 
 <br>
 <br>
@@ -29,53 +28,12 @@ I bring data to life with:
 
 ## ⭐ Data Viz Projects
 
-<a href="https://public.tableau.com/app/profile/wjsutton/viz/DiversityScorecardRWFD/RWFDINC-DiversityScorecard">
-    <img src="https://public.tableau.com/thumb/views/DiversityScorecardRWFD/RWFDINC-DiversityScorecard" width ="25%">
+<a href="https://public.tableau.com/app/profile/lisa.hitch/viz/InteractiveResumeLisaHitch2/Resume">
+    <img src="https://github.com/lisahitchlh/lisahitchlh/assets/156098598/d904c67f-8210-4382-8260-34e973ad1813" width ="25%">
   </a>
 
-  <a href="https://github.com/wjsutton/why_does_my_dog">
-    <img src="https://public.tableau.com/thumb/views/WhyDoesMyDog___IronQuest/DesktopVersion" width ="24%">
-  </a>
 
-  <a href="https://github.com/wjsutton/driving_test_pass_rates">
-    <img src="https://public.tableau.com/thumb/views/WheretoPasstheGreatBritishDrivingTest/DrivingTests" width ="24%">
-  </a>
 
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/ClosingtheYouthLiteracyGapIronViz2022/Dashboard1">
-    <img src="https://public.tableau.com/thumb/views/ClosingtheYouthLiteracyGapIronViz2022/Dashboard1" width ="25%">
-  </a>
-
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/WheelchairMarathonWorldChampionsDiversityinData/WheelchairMarathonWorldChampionsDiversityinData">
-    <img src="https://public.tableau.com/thumb/views/WheelchairMarathonWorldChampionsDiversityinData/WheelchairMarathonWorldChampionsDiversityinData" width ="25%">
-  </a>
-
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/FinancialComplaintsRWFD/Overview">
-    <img src="https://public.tableau.com/thumb/views/FinancialComplaintsRWFD/Overview" width ="24%">
-  </a>
-
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/InterpretingArtIronViz2022Drawful2/Dash">
-    <img src="https://public.tableau.com/thumb/views/InterpretingArtIronViz2022Drawful2/Dash" width ="24%">
-  </a>
-
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/Survivorsofthe1904OlympicMarathon/Survivorsofthe1904OlympicMarathon">
-    <img src="https://public.tableau.com/thumb/views/Survivorsofthe1904OlympicMarathon/Survivorsofthe1904OlympicMarathon" width ="25%">
-  </a>
-
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/PokemonColourPalettes/PokePalettes">
-    <img src="https://public.tableau.com/thumb/views/PokemonColourPalettes/PokePalettes" width ="25%">
-  </a>
-
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/FBIsMostWanted_16332949514690/MostWanted">
-    <img src="https://public.tableau.com/thumb/views/FBIsMostWanted_16332949514690/MostWanted" width ="24%">
-  </a>
-
-  <a href="https://github.com/wjsutton/Tour-De-France">
-    <img src="https://public.tableau.com/thumb/views/TheToughestTour/TourdeFrance" width ="24%">
-  </a>
-
-  <a href="https://public.tableau.com/app/profile/wjsutton/viz/HowYourPersonalityAffectsYourIncome/PersonalityandIncome">
-    <img src="https://public.tableau.com/thumb/views/HowYourPersonalityAffectsYourIncome/PersonalityandIncome" width ="25%">
-  </a>
 
 
 
