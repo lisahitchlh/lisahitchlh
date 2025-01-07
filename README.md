@@ -1,6 +1,6 @@
-### Hi there, fellow data-enthusiast 👋
+### Hi and welcome to my portfolio👋
 <br>
-<img src = 'https://github.com/lisahitchlh/lisahitchlh/assets/156098598/01fe7989-0ffc-4079-9229-7daca3b0a19f' width="20%">
+<img src = 'https://github.com/lisahitchlh/lisahitchlh/assets/156098598/01fe7989-0ffc-4079-9229-7daca3b0a19f' width="30%">
 <br>
 <br>
 DATA • DESIGN • TEACHING
