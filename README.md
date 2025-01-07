@@ -106,8 +106,33 @@ Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CU
   </a> 
 
 ## Blog Articles
-* test
+### Tableau
+* [Accelerating your Dashboard: 10 Tips to Reduce Lag Time](https://www.thedataschool.co.uk/lisa-hitch/accelerating-your-dashboard-success-reducing-lag-time/)
+* [Tableau How-To: Create Parallel Coordinates Charts](https://www.thedataschool.co.uk/lisa-hitch/tableau-how-to-create-a-parallel-coordinates-chart/)
+* [Tableau How-To: Make a Custom-Shaped Chart out of Individual Data Points](https://www.thedataschool.co.uk/lisa-hitch/how-to-make-a-custom-shaped-chart-out-of-data-points/)
+* [Tableau How-To: Create a Sunburst Chart with Map Layers](https://www.thedataschool.co.uk/lisa-hitch/how-to-create-a-sunburst-chart-with-map-layers/)
+* [9 Ways to Create Calculated Fields in Tableau](https://www.thedataschool.co.uk/lisa-hitch/8-ways-to-create-calculated-fields-in-tableau/)
 
+### Tableau Prep
+* [Tableau Prep Mini Tip Series: Where to insert a new step in an existing flow?](https://www.thedataschool.co.uk/lisa-hitch/tableau-prep-tip-series/)
+* [Joins expand data horizontally, Unions expand data vertically ... Or not?](https://www.thedataschool.co.uk/lisa-hitch/joins-expand-data-horizontally-unions-expand-data-vertically-or-not/)
+
+### Alteryx
+* [Understanding JSON Formatting: Lessons Learned from Editing Calendar Events Using Alteryx & Google API](https://www.theinformationlab.co.uk/community/blog/understanding-json-formatting/)
+* [Why Data Consultants Need APIs](https://www.thedataschool.co.uk/lisa-hitch/why-data-consultants-need-apis/)
+* [Alteryx Analytical Apps: Common Mistakes and How to Solve Them!](https://www.thedataschool.co.uk/lisa-hitch/alteryx-apps-common-mistakes-and-how-to-solve-them/)
+* [Alteryx Mini Tip Series: Spatial Data - Creating Donut Areas Instead of Circles](https://www.thedataschool.co.uk/lisa-hitch/alteryx-mini-tip-series-spatial-data-creating-donut-areas-instead-of-circles/)
+* [Alteryx Mini Tip Series: Customizing your Tool Bar](https://www.thedataschool.co.uk/lisa-hitch/alteryx-9/)
+
+### Consulting & Teaching
+* [Lessons Learned from Teaching Consultancy & Tableau](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-teaching-consultancy-tableau/)
+* [Lessons Learned from a Short-Term Consultancy Project](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-a-short-term-consultancy-project/)
+* [Why (And How) to Document Your Work as a Data Consultant](https://www.thedataschool.co.uk/lisa-hitch/how-to-document-your-work/)
+* [Why Stakeholders love Sketches & Wireframing](https://www.thedataschool.co.uk/lisa-hitch/why-stakeholders-love-sketches-wireframing/)
+* [Why LinkedIn is Crucial for Your Career as a Data Consultant](https://www.thedataschool.co.uk/lisa-hitch/linkedin-crucial_for_your_career_as_a_data_consultant/)
+* [Lessons Learned from Being a Project Manager](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-being-a-project-manager/)
+* [The Power of Asking Questions](https://www.thedataschool.co.uk/lisa-hitch/the-power-of-questions/)
+* [What does a Data Consultant do?](https://www.thedataschool.co.uk/lisa-hitch/what-does-a-data-consultant-do/)
 
 ## 📫 Contact
 **What do we have in common?** <br>
