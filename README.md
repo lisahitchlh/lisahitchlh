@@ -13,7 +13,7 @@
 
 ## Who is Lisa? <br>
 ### **Data Consultant** <br>
-Lisa is a Data Consultant at [The Information Lab]([https://example.com](https://www.theinformationlab.com/)) specializing in helping clients find business insights with **Tableau**, automate workflows using **Alteryx**, and optimize data modeling through **SQL&&. She also brings skills from a variety of other statistical and coding software such as **R**, **SAS**, **SPSS**, and **Python**. 
+Lisa is a Data Consultant at [The Information Lab](https://www.theinformationlab.com/) specializing in helping clients find business insights with **Tableau**, automate workflows using **Alteryx**, and optimize data modeling through **SQL**. She also brings skills from a variety of other statistical and coding software such as **R**, **SAS**, **SPSS**, and **Python**. 
 At the forefront of her consultancy philosophy is teaching and breaking down complex topics into simple, understandable, and manageable steps. She thrives on sharing her knowledge, offering tailored training sessions, and mentoring clients to build their own data analytics capabilities with confidence. 
 
 <details>
@@ -32,7 +32,7 @@ At the forefront of her consultancy philosophy is teaching and breaking down com
 </details> <br>
 
 ### **PhD Candidate**<br>
-Currently pursuing her PhD in Community Health at the CUNY Graduate School of Public Health, she focuses on leveraging dashboards to inform public health policymaking.
+Currently pursuing her PhD in Community Health at the [CUNY Graduate School of Public Health](https://sph.cuny.edu/), she focuses on leveraging dashboards to inform public health policymaking for marginalized populations.
 <details>
   <summary>Publications</summary>
   
@@ -77,17 +77,36 @@ Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CU
 <a href='https://www.datacamp.com/certificate/SQA0011793691042'>
   <img src='https://private-user-images.githubusercontent.com/156098598/400887723-7560570a-bb0c-4c2c-beb3-20f48d0859cd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzY5MTgsIm5iZiI6MTczNjI3NjYxOCwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODg3NzIzLTc1NjA1NzBhLWJiMGMtNGMyYy1iZWIzLTIwZjQ4ZDA4NTljZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTAzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NGM5ODFmN2NlNzk3NzBkZmY2MzM1ODQ0ZDJkNjUxZjI3NDBmMzBjMjgwMGVkOTQ5MmNkN2IzZTdlNWI2MWNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sKxSA_covzHAt0I4eN9d96gMTkzyBlSPqDHnXKGOfH4' width="20%">
 </a>
-
-
+<br>
+<br>
 
 ## ⭐ Data Viz Projects
+[Click to see Lisa's Tableau Public](https://public.tableau.com/app/profile/lisa.hitch/vizzes)
+<br>
 
+### 1. Events Calendar
+<a href='https://public.tableau.com/app/profile/lisa.hitch/viz/CorporateAccessCalendar/Dashboard'>
+    <img src='https://private-user-images.githubusercontent.com/156098598/400888729-d4e2e2d9-7b4c-47fb-bbef-4aa6256230e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzcxNTQsIm5iZiI6MTczNjI3Njg1NCwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODg4NzI5LWQ0ZTJlMmQ5LTdiNGMtNDdmYi1iYmVmLTRhYTYyNTYyMzBlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTA3MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNzhlMTI5ZTdmNDg5OTAzNDRlODZhYmIwMDFhYTQ4MmY2ZTZmMGY2YjYzMjE0MWYzN2E0Zjc4M2VlNzJhZDkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MwwshzHa45aoqjQ1hDj_okINcIPPYpQhL5GVt5g3giE' width ="25%">
+  </a>
+
+
+### 2. Tableau Visual Resume
 <a href="https://public.tableau.com/app/profile/lisa.hitch/viz/InteractiveResumeLisaHitch2/Resume">
     <img src="https://github.com/lisahitchlh/lisahitchlh/assets/156098598/d904c67f-8210-4382-8260-34e973ad1813" width ="25%">
   </a>
 
-## Blog Articles
+### 3. Business Dashboard
+<a href='https://public.tableau.com/app/profile/lisa.hitch/viz/CallAnalysisDashboard_17054244406490/CallsDashbaord'>
+    <img src='https://private-user-images.githubusercontent.com/156098598/400891630-dfafee91-b58f-45df-a10a-4fbecc8ef66b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzc4MjcsIm5iZiI6MTczNjI3NzUyNywicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODkxNjMwLWRmYWZlZTkxLWI1OGYtNDVkZi1hMTBhLTRmYmVjYzhlZjY2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTE4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NDBlYzc1NDUyZmMwMmY0NGFkNDc1YjQ0YWFiMTVmZjdiNWU2YmIyZDU5OTc2MzE4MGUwMmMyMWY0ZjgzNzM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VfoOVo5_sGExLCCH3GAruKmpfG7Fhd9PD4G4Loe6uDM' width ="25%">
+  </a>
 
+ ### 4. Palestine Dashboard
+<a href='https://public.tableau.com/app/profile/lisa.hitch/viz/SilencedLivesPalestineinNumbers/Dashboard_1'>
+    <img src='https://private-user-images.githubusercontent.com/156098598/400891957-2559c7b5-a45c-4e92-acd6-37edaa0194f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzc5MTIsIm5iZiI6MTczNjI3NzYxMiwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODkxOTU3LTI1NTljN2I1LWE0NWMtNGU5Mi1hY2Q2LTM3ZWRhYTAxOTRmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTIwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDFlNzZjODI1MzhlMmQxNTIzMDBiNWVmMzdjODc0Y2NhNzIwZjQ0NjE0OTI3ZWJkMWExMTIwZTI3MmEzMzRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.soikUhCtjrhkiYFDptzCQo3XA5GsL2Kq6Q6PD58ZJCY' width ="25%">
+  </a> 
+
+## Blog Articles
+* test
 
 
 ## 📫 Contact
