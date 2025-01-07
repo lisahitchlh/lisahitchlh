@@ -1,4 +1,4 @@
-### Hi and welcome to my portfolio👋
+# Hi and Welcome to my Data Portfolio👋
 <br>
 <img src = 'https://github.com/lisahitchlh/lisahitchlh/assets/156098598/01fe7989-0ffc-4079-9229-7daca3b0a19f' width="30%">
 <br>
@@ -7,101 +7,48 @@ DATA • DESIGN • TEACHING
 
 ---
 
-Who is Lisa?
-* Data Analytics Consultant
-* PhD Student
-* Adjunct Lecturer
+## Who is Lisa? <br>
+### **Data Consultant** <br>
+Lisa is a Data Consultant at [The Information Lab]([https://example.com](https://www.theinformationlab.com/)) specializing in helping clients find business insights with **Tableau**, automate workflows using **Alteryx**, and optimize data modeling through **SQL&&. She also brings skills from a variety of other statistical and coding software such as **R**, **SAS**, **SPSS**, and **Python**. 
+At the forefront of her consultancy philosophy is teaching and breaking down complex topics into simple, understandable, and manageable steps. She thrives on sharing her knowledge, offering tailored training sessions, and mentoring clients to build their own data analytics capabilities with confidence. 
 
-<br>
-
-I make data easy to understand with:
-* Alteryx
-* Tableau
-* R
-* SAS
-* PowerBI
-* SQL
-
-<br>
-<br>
-<br>
-
-## ⭐ Data Viz Projects
-
-<a href="https://public.tableau.com/app/profile/lisa.hitch/viz/InteractiveResumeLisaHitch2/Resume">
-    <img src="https://github.com/lisahitchlh/lisahitchlh/assets/156098598/d904c67f-8210-4382-8260-34e973ad1813" width ="25%">
-  </a>
-
-
-
-
-
-
-
-## SQL Challenge Tutorials
-
-<a href="https://youtu.be/2fCPTlYiX4s?si=BuJepatE-gcGzp_r">
-  <img src="https://github.com/wjsutton/sql_murder_mystery/blob/main/youtube_thumb.png?raw=true" align="right" width="40%">
-</a>
-
-Over on YouTube, I've created several SQL challenge walkthroughs to help newcomers learn when and why to use different techniques.
-
-Here you'll find how to:
-- Solve a murder with SQL [📺 Watch](https://youtu.be/w8DSLB8Wa2o?si=WFAaPhYANqhQckcj)
-- Support a pizza business [📺 Watch](https://www.youtube.com/watch?v=AZEWpXmgiHs&list=PLXDaaNmzYOAKY6hIOoL3RG4duErSAumvw&index=2)
-- Prep data for bank reporting [📺 Watch](https://youtu.be/h1hknSmMRbY?si=ASUL6_Yr_cpY_pEK)
-
-And many more!
-
-## Community Enablement
-
-<a href="https://gamesnightviz.webflow.io/">
-    <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/GNV_Logo_Season2_4.png?raw=true" width="40%" align="left">
-</a>
-                
-In 2021 I teamed up with two members of the Tableau community to launch a project combining data visualization and games, #GamesNightViz. 
-
-A quick way to grow your skills is to work on a topic you enjoy, and games provide plenty of opportunities for fun, intrigue, and great visualizations. 
-
-Here you'll find data about:
-
-- The population of Skyrim <a href="https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md#skyrim">🔗 Data</a>
-- All the songs from Just Dance <a href="https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md#just-dance">🔗 Data</a>
-- And a ton of Mario games <a href="https://github.com/wjsutton/games_night_viz/blob/main/challenges/data_archive.md#mario-games">🔗 Data</a>
-
-
-
-## About Me
-
-I have been working for over a decade in data analytics, I enjoy solving problems with data, be that automating processes with SQL, R & Python or visualising data with Tableau.
-
-During my career, I have:
-
-- Enabled companies from sectors such as finance, media and research to extract value from their data.
-- Won the title in the world’s biggest data visualization contest, Tableau’s Iron Viz, in 2022.
-- Trained analysts to solve problems and craft their own data stories.
+<details>
+  <summary>Case Study 1: Consulting at a large bank</summary>
   
-Away from the desk, I am a regular speaker at user group events and conferences, I stay up to date on the latest in the data analytics space, regularly sharing my thoughts on emerging tools and techniques.
+  During a 5-month engagement with a large bank's Analytics Enablement team, Lisa utilized SQL to optimize Tableau workbook performance through database-side using joins, ETCs, and filtering. She then built dashboards on SLA performance, customer language preferences, and exploration tools for trusted data sources. To streamline development, Lisa created a Tableau dashboard template and iterated it based on business needs in collaboration with business stakeholders and data analysts. Additionally, she developed and led a customized 3-part interactive workshop series, covering Tableau topics from beginner to advanced, including breadcrumbing for parameters and filters and dynamic zone visibility.
+  
+</details> 
 
-I’m always open to connecting with fellow data enthusiasts, discussing challenges and exploring collaborative opportunities.
-           
-<img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/work_timeline.png?raw=true">
+<details>
+  <summary>Case Study 2: Consulting at a hedgefund</summary>
+  
 
-## Awards & Certifications
+  Lisa worked with a hedge fund for a 3-month period, serving as Center of Excellence for Tableau. During this engagement, she provided more than 18 ad-hoc office hours, over 50 hours of 1-on-1 Tableau teaching sessions, and conducted 4 small group workshops on topics such as Data Modeling, Data Calculations & Parameters, LODs & Table Calculations, and Tableau Server Fundamentals. In addition to training, she built 7 dashboards for trading and corporate access relationships, saving more than 350 hours of manual data updates annually.
+  
+</details>
 
-<a href="https://www.tableau.com/en-gb/blog/iron-viz-2022-championship">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/WillSutton_IV2022.jpg?raw=true" width="40%" align="right">
-</a>
+### **PhD Candidate**<br>
+Currently pursuing her PhD in Community Health at the CUNY Graduate School of Public Health, she focuses on leveraging dashboards to inform public health policymaking.
+<details>
+  <summary>Publications</summary>
+  
+  Lisa has published the following articles:
+  * Hitch et al. (2022): [Factors associated with mask use in New York City neighborhood parks during the COVID-19 pandemic: A field audit study](https://www.sciencedirect.com/science/article/pii/S1876034122000399)
+  * Kodali et al. (2023): [A systematic review on the relationship between the built environment and children’s quality of life](https://link.springer.com/article/10.1186/s12889-023-17388-8)
+  * Hitch et al. (2023): [The vulnerability to COVID-19 of migrants in large urban areas: structural exacerbators and community-level mitigators](https://academic.oup.com/eurpub/article/33/4/704/7165694)
+  * Hitch et al. (2024): [COVID-19, migrants, and world large urban areas: a thematic policy brief](https://pmc.ncbi.nlm.nih.gov/articles/PMC11609089/)
+  
+</details> 
 
-### Iron Viz Champion 2022
+### **Adjunct Lecturer** <br>
+Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CUNY Graduate School of Public Health, teaching foundational and advanced analytical techniques to graduate-level students. SHe taught the following courses:
+    * BIOS 620: Applied Biostatistics I
+    * PUBH 614: Quantitative and Qualitative Research Methods
+    * PUBH 696: Supervised Fieldwork
+<br>
+<br>
 
-I travelled to Las Vegas to compete in the largest data visualization contest globally, Tableau's Iron Viz competition. The final round required presenting a 20-minute Tableau dashboard before a live audience of 5,000 and a global streaming audience.
-
-This year's theme focused on visualizing the impact of education worldwide. Leveraging animations, parameters, and map background images, I crafted a presentation-style visualization to effectively communicate my analysis.
-            
-<a href="https://youtu.be/cIwCJ2V-KX8?si=G2XwUdSpWcwtk3gE">📺 Watch the final on YouTube</a>
-
-### Certifications
+## 📨 Certifications 
 
 <a href="https://www.credly.com/badges/15133556-38cb-4c9a-9288-a875bd947ff8/public_url">
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2023-tableau-visionary.png?raw=true" width="20%">
@@ -123,28 +70,20 @@ This year's theme focused on visualizing the impact of education worldwide. Leve
   <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="20%">
 </a>
 
+## ⭐ Data Viz Projects
+
+<a href="https://public.tableau.com/app/profile/lisa.hitch/viz/InteractiveResumeLisaHitch2/Resume">
+    <img src="https://github.com/lisahitchlh/lisahitchlh/assets/156098598/d904c67f-8210-4382-8260-34e973ad1813" width ="25%">
+  </a>
+
+## Blog Articles
+
+
 
 ## 📫 Contact
+**What do we have in common?** <br>
+Do we have any hobbies in common? I enjoy rock climbing, traveling, playing tennis and squash, and finding the best cup of coffee in NYC.
+I'd be happy to connect with you on LinkedIn and find out what we DO have in common! 😊 
 
-You can find me on the following social media sites
-
-- [LinkedIn](https://www.linkedin.com/in/will-sutton-14711627/)
-- [X FKA Twitter](https://twitter.com/WJSutton12)
-- [Instagram](https://www.instagram.com/data.gram/)
-- [YouTube](https://www.youtube.com/channel/UC3N21EOGbnVX5duBlfDCpng)
-- [GitHub](https://github.com/wjsutton)
-
-<!--
-**lisahitchlh/lisahitchlh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [LinkedIn](https://www.linkedin.com/in/lisa-hitch/)
+- [GitHub](https://github.com/lisahitchlh)
