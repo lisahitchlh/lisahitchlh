@@ -3,14 +3,10 @@
 
 <p float="left">
 
-<img src = 'https://private-user-images.githubusercontent.com/156098598/400851497-6960713b-6058-4f35-9e33-88e8a0b9e5ca.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNjkyNzYsIm5iZiI6MTczNjI2ODk3NiwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODUxNDk3LTY5NjA3MTNiLTYwNTgtNGYzNS05ZTMzLTg4ZThhMGI5ZTVjYS5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxNjU2MTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kYjc1YzBhMDdmZTk3MjZlYWQ2MTBhYzFhZGRiYTliOTY3MTIwY2I4YzY0ZmU4NzRmMWY0OTU1ODEyMWUyZTdjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.5dzRLPaqxWbw-i279tZHCdrVbCu5KANGwbD5g0Dd4tQ' width="30%">
-<img src = 'https://private-user-images.githubusercontent.com/156098598/400851593-b9704fcf-e591-4541-b195-34dd47f887bf.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNjkyMzUsIm5iZiI6MTczNjI2ODkzNSwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODUxNTkzLWI5NzA0ZmNmLWU1OTEtNDU0MS1iMTk1LTM0ZGQ0N2Y4ODdiZi5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxNjU1MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wODdmZmEyYjMxMWRlMzlkZDc4MmUxMDdiNzIzZmI1MWUwN2U5MzM0Njc3NmRhNTQyZjdiMWEzZTQwMTQ5MTc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.ygHwrub2WcOwyB6J7-6jfRpBTrL7XuKiuKvO3g3621o' width="30%">
-<img src = 'https://private-user-images.githubusercontent.com/156098598/400851657-18d0deca-0be0-45f9-94bd-743846510e34.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNjkwOTYsIm5iZiI6MTczNjI2ODc5NiwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODUxNjU3LTE4ZDBkZWNhLTBiZTAtNDVmOS05NGJkLTc0Mzg0NjUxMGUzNC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxNjUzMTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04NWI4MGJiYTU3OWU4ZTI3M2YwNzUxZDE4YzNmYzI3MDBjNDlkODI0YzhhMWQ0NzAzNmNkMDBiMDM5N2I4MzExJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.UvZehVSY-GhYP7NKFlVlVyk1XcUkFSpB_huHKcVmgMU' width="30%">
+<img src = 'https://private-user-images.githubusercontent.com/156098598/400859737-50924a96-0fb5-4eb9-873b-85a1e12375f5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzA2MTYsIm5iZiI6MTczNjI3MDMxNiwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODU5NzM3LTUwOTI0YTk2LTBmYjUtNGViOS04NzNiLTg1YTFlMTIzNzVmNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxNzE4MzZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1mNWEzOTk3MjA4MTAzOGY1MDE2NzJlM2M1YzY2OGE3NGNmNmI1YmZhOGI0MjIyZmY3OGM2OWExMzFjMmY3MmZmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.F4qw6AEJGorXhCzBiH3ltvSJKnauddT9seG72P1TLto'>
 
 </p>
-<br>
-<br>
-DATA • DESIGN • TEACHING
+
 
 
 ---
@@ -33,7 +29,7 @@ At the forefront of her consultancy philosophy is teaching and breaking down com
 
   Lisa worked with a hedge fund for a 3-month period, serving as Center of Excellence for Tableau. During this engagement, she provided more than 18 ad-hoc office hours, over 50 hours of 1-on-1 Tableau teaching sessions, and conducted 4 small group workshops on topics such as Data Modeling, Data Calculations & Parameters, LODs & Table Calculations, and Tableau Server Fundamentals. In addition to training, she built 7 dashboards for trading and corporate access relationships, saving more than 350 hours of manual data updates annually.
   
-</details>
+</details> <br>
 
 ### **PhD Candidate**<br>
 Currently pursuing her PhD in Community Health at the CUNY Graduate School of Public Health, she focuses on leveraging dashboards to inform public health policymaking.
@@ -46,37 +42,43 @@ Currently pursuing her PhD in Community Health at the CUNY Graduate School of Pu
   * Hitch et al. (2023): [The vulnerability to COVID-19 of migrants in large urban areas: structural exacerbators and community-level mitigators](https://academic.oup.com/eurpub/article/33/4/704/7165694)
   * Hitch et al. (2024): [COVID-19, migrants, and world large urban areas: a thematic policy brief](https://pmc.ncbi.nlm.nih.gov/articles/PMC11609089/)
   
-</details> 
+</details> <br>
 
 ### **Adjunct Lecturer** <br>
-Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CUNY Graduate School of Public Health, teaching foundational and advanced analytical techniques to graduate-level students. SHe taught the following courses:
-    * BIOS 620: Applied Biostatistics I
-    * PUBH 614: Quantitative and Qualitative Research Methods
-    * PUBH 696: Supervised Fieldwork
+Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CUNY Graduate School of Public Health, teaching foundational and advanced analytical techniques to graduate-level students. SHe taught the following courses:<br>
+  * BIOS 620: Applied Biostatistics I<br>
+  * PUBH 614: Quantitative and Qualitative Research Methods<br>
+  * PUBH 696: Supervised Fieldwork<br>
 <br>
 <br>
 
 ## 📨 Certifications 
 
-<a href="https://www.credly.com/badges/15133556-38cb-4c9a-9288-a875bd947ff8/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/2023-tableau-visionary.png?raw=true" width="20%">
+<a href="https://www.credly.com/badges/19f7cd71-4653-4281-8593-3228a2c9ca4b/embedded">
+  <img src='https://private-user-images.githubusercontent.com/156098598/400848031-7855841a-e284-48dd-b3ec-4469ea101237.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzYyNDQsIm5iZiI6MTczNjI3NTk0NCwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODQ4MDMxLTc4NTU4NDFhLWUyODQtNDhkZC1iM2VjLTQ0NjllYTEwMTIzNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxODUyMjRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hZGYyZDliNGY3MTBkMDdhNTk5MDQ3MDMyMzliZTBiZWIzNWQ5N2M2NjkyOWE2ZDhhNTk3YTQzZWM2NzBmMzRhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.jsY9ug2tghcih6pM3yszFEFCQE_u5z7TKLzyOyH5xB4' width="20%">
 </a>
 
 <a href="https://www.credly.com/badges/3512eb42-d819-4e6d-b0ed-93fec81d1e91/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-ambassador.png?raw=true" width="19%">
+  <img src='https://private-user-images.githubusercontent.com/156098598/400848161-a5347ba0-02f3-4b8a-9c80-0e7428de48f2.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzYzMTEsIm5iZiI6MTczNjI3NjAxMSwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODQ4MTYxLWE1MzQ3YmEwLTAyZjMtNGI4YS05YzgwLTBlNzQyOGRlNDhmMi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxODUzMzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0wM2U2YWQ5ZTg3MWJiZDU1NWU0MDlhOWJhYWExOGJmYmI0M2Q5OGM0NGFmN2RmN2FmOWJjMmNjMWZmYjg2YjMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.M-61BbgWOZA4WsUHWm8AVSzMTGLUN4n1Fx6MP6mFszs' width="19%">
 </a>
 
-<a href="https://www.credly.com/badges/f481f7d5-a216-4ffc-aa1b-74b7fe388fab">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/tableau-certified-professional.png?raw=true" width="19%">
+<a href='https://www.credly.com/badges/108b2bdc-3868-4f9c-b779-ba01c4e16702/embedded'>
+  <img src='https://private-user-images.githubusercontent.com/156098598/400848435-1890f586-09fc-40bb-a9f1-552e1fd406b0.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzYzNTgsIm5iZiI6MTczNjI3NjA1OCwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODQ4NDM1LTE4OTBmNTg2LTA5ZmMtNDBiYi1hOWYxLTU1MmUxZmQ0MDZiMC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxODU0MThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05MTQzYzVlYjAyYTUxNzRlODg3ZGQwYzczOTVhODI5NTc0NDEwMjFkYTM5NGI2MGQ0YTk0MDMxYjJjODc5ZTZlJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.1gMWD1BRfdNvGqNB5reaesWZUuCTN_3Fn_WCdBc4kXw' width="19%">
 </a>
 
-<a href="https://www.credly.com/badges/357d7051-7b8e-4e3a-a0e4-24e6e554b02b">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/power-bi-data-analyst.png?raw=true" width="19%">
+<a href="https://www.credly.com/badges/5a158398-6745-4c64-8e1a-8091782992d0/embedded">
+  <img src='https://private-user-images.githubusercontent.com/156098598/400848320-d7586be5-1678-4709-a286-3d548161cc52.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzY0MDIsIm5iZiI6MTczNjI3NjEwMiwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODQ4MzIwLWQ3NTg2YmU1LTE2NzgtNDcwOS1hMjg2LTNkNTQ4MTYxY2M1Mi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxODU1MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kNGFiNmMyZGFiYjNlNTk4NjgyNWY5MmM2YmU4ODAzZTUzYTQ0MzNhYTk4ZTllOGY5ZWNhNjUyN2M5NWQ1YzcyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.T_EQS6zJFdk5X_G0H4LdrkdwpA01HyZ-c6U1dKnSFCY' width="19%">
 </a>
 
-<a href="https://www.credly.com/badges/eaebd799-b3cf-460b-b844-da4bc9fe35ab/public_url">
-  <img src="https://github.com/wjsutton/wjsutton.github.io/blob/master/assets/img/credly/alteryx-designer-advanced-certification.png?raw=true" width="20%">
+<a href='https://www.credly.com/badges/449bd8aa-2a25-4351-bef6-02e03557dc5f/embedded'>
+  <img src='https://private-user-images.githubusercontent.com/156098598/400848227-29742c14-4509-4e4b-b699-803eef185c5d.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzY0MzUsIm5iZiI6MTczNjI3NjEzNSwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODQ4MjI3LTI5NzQyYzE0LTQ1MDktNGU0Yi1iNjk5LTgwM2VlZjE4NWM1ZC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxODU1MzVaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT04ZmZiNTQ4OTg3MDlmODY4ZmVkM2QyMTU5ZGUyNTVlMzUxYjgzOWNlNzExODc4NmYyMWE3OGE4OWMzZTFjZTYwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.czmgnU8Abyw7Io_EBZk1DM82H_xK9jOxJ-wNeGHGH1g' width="20%">
 </a>
+
+<a href='https://www.datacamp.com/certificate/SQA0011793691042'>
+  <img src='https://private-user-images.githubusercontent.com/156098598/400887723-7560570a-bb0c-4c2c-beb3-20f48d0859cd.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzY5MTgsIm5iZiI6MTczNjI3NjYxOCwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODg3NzIzLTc1NjA1NzBhLWJiMGMtNGMyYy1iZWIzLTIwZjQ4ZDA4NTljZC5qcGc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTAzMzhaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT05NGM5ODFmN2NlNzk3NzBkZmY2MzM1ODQ0ZDJkNjUxZjI3NDBmMzBjMjgwMGVkOTQ5MmNkN2IzZTdlNWI2MWNkJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.sKxSA_covzHAt0I4eN9d96gMTkzyBlSPqDHnXKGOfH4' width="20%">
+</a>
+
+
 
 ## ⭐ Data Viz Projects
 
