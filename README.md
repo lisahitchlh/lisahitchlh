@@ -95,7 +95,7 @@ Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, w
 [Click to see Lisa's Tableau Public](https://public.tableau.com/app/profile/lisa.hitch/vizzes)
 <br>
 
-### 1. Events Calendar
+### 1. Events Calendar (Viz of the Day)
 <img width="700" height="450" alt="Dashboard" src="https://github.com/user-attachments/assets/414fa8ed-8e4a-4c99-b6a4-900803ce43a7" />
 
 
