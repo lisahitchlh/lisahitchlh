@@ -123,6 +123,18 @@ Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, w
 
 
 ## Blog Articles
+### Consulting & Teaching
+* [Dashboards with Impact: Designing for Adoption that Sticks](https://www.theinformationlab.com/community/blog/dashboards-with-impact/)
+* [Developing a Consultant Mindset in the AI Era](https://www.theinformationlab.com/community/blog/consultant-mindset-in-ai-era/)
+* [Lessons Learned from Teaching Consultancy & Tableau](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-teaching-consultancy-tableau/)
+* [Lessons Learned from a Short-Term Consultancy Project](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-a-short-term-consultancy-project/)
+* [Why (And How) to Document Your Work as a Data Consultant](https://www.thedataschool.co.uk/lisa-hitch/how-to-document-your-work/)
+* [Why Stakeholders love Sketches & Wireframing](https://www.thedataschool.co.uk/lisa-hitch/why-stakeholders-love-sketches-wireframing/)
+* [Why LinkedIn is Crucial for Your Career as a Data Consultant](https://www.thedataschool.co.uk/lisa-hitch/linkedin-crucial_for_your_career_as_a_data_consultant/)
+* [Lessons Learned from Being a Project Manager](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-being-a-project-manager/)
+* [The Power of Asking Questions](https://www.thedataschool.co.uk/lisa-hitch/the-power-of-questions/)
+* [What does a Data Consultant do?](https://www.thedataschool.co.uk/lisa-hitch/what-does-a-data-consultant-do/)
+  
 ### Tableau
 * [Accelerating your Dashboard: 10 Tips to Reduce Lag Time](https://www.thedataschool.co.uk/lisa-hitch/accelerating-your-dashboard-success-reducing-lag-time/)
 * [Tableau How-To: Create Parallel Coordinates Charts](https://www.thedataschool.co.uk/lisa-hitch/tableau-how-to-create-a-parallel-coordinates-chart/)
@@ -141,15 +153,6 @@ Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, w
 * [Alteryx Mini Tip Series: Spatial Data - Creating Donut Areas Instead of Circles](https://www.thedataschool.co.uk/lisa-hitch/alteryx-mini-tip-series-spatial-data-creating-donut-areas-instead-of-circles/)
 * [Alteryx Mini Tip Series: Customizing your Tool Bar](https://www.thedataschool.co.uk/lisa-hitch/alteryx-9/)
 
-### Consulting & Teaching
-* [Lessons Learned from Teaching Consultancy & Tableau](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-teaching-consultancy-tableau/)
-* [Lessons Learned from a Short-Term Consultancy Project](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-a-short-term-consultancy-project/)
-* [Why (And How) to Document Your Work as a Data Consultant](https://www.thedataschool.co.uk/lisa-hitch/how-to-document-your-work/)
-* [Why Stakeholders love Sketches & Wireframing](https://www.thedataschool.co.uk/lisa-hitch/why-stakeholders-love-sketches-wireframing/)
-* [Why LinkedIn is Crucial for Your Career as a Data Consultant](https://www.thedataschool.co.uk/lisa-hitch/linkedin-crucial_for_your_career_as_a_data_consultant/)
-* [Lessons Learned from Being a Project Manager](https://www.thedataschool.co.uk/lisa-hitch/lessons-learned-from-being-a-project-manager/)
-* [The Power of Asking Questions](https://www.thedataschool.co.uk/lisa-hitch/the-power-of-questions/)
-* [What does a Data Consultant do?](https://www.thedataschool.co.uk/lisa-hitch/what-does-a-data-consultant-do/)
 
 ## 📫 Contact & Find more of me
 Do you enjoy my content? You may also find me on LinkedIn, Instagram and TikTok under @the.data.coach.
