@@ -111,11 +111,11 @@ Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, w
 
 ## 📨 Certifications 
 
-<img width="200" height="200" alt="2025-04_Badge_SF-Certified_Tab-Data-Analyst_High-Res" src="https://github.com/user-attachments/assets/f74d824f-3320-47c1-a2b6-37cf47d5e097" /><br>
+<img width="150" height="150" alt="2025-04_Badge_SF-Certified_Tab-Data-Analyst_High-Res" src="https://github.com/user-attachments/assets/f74d824f-3320-47c1-a2b6-37cf47d5e097" /><br>
 
 [Click to see Credential](https://trailhead.salesforce.com/en/credentials/certification-detail-print/?searchString=LTu1Zn6jWexZEWvUgBSsAmilGOXxAQ2ylkCrQHeT6lB8VKJfUwf/GZWWdgTiskBK)<br>
 
-<img width="340" height="340" alt="Certification_Designer_Advanced" src="https://github.com/user-attachments/assets/15cea1de-2805-40ef-a5fa-ff28acb8d888" /><br>
+<img width="150" height="150" alt="Certification_Designer_Advanced" src="https://github.com/user-attachments/assets/15cea1de-2805-40ef-a5fa-ff28acb8d888" /><br>
 
 [Click to see Credential](https://www.credly.com/earner/earned/badge/6d7d57ea-2f3b-4a7f-a917-f2d2ff5a7fdb)<br>
 
