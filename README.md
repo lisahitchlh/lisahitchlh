@@ -32,7 +32,7 @@ At the forefront of her consultancy philosophy is teaching and breaking down com
 </details> <br>
 
 ### **PhD Candidate**<br>
-Currently pursuing her PhD in Community Health at the [CUNY Graduate School of Public Health](https://sph.cuny.edu/), she focuses on leveraging dashboards to inform public health policymaking for marginalized populations.
+Currently pursuing her PhD in Community Health at the [CUNY Graduate School of Public Health](https://sph.cuny.edu/), her dissertation focuses on how people leverage GenAI to access health information.
 <details>
   <summary>Publications</summary>
   
@@ -45,10 +45,13 @@ Currently pursuing her PhD in Community Health at the [CUNY Graduate School of P
 </details> <br>
 
 ### **Adjunct Lecturer** <br>
-Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CUNY Graduate School of Public Health, teaching foundational and advanced analytical techniques to graduate-level students. SHe taught the following courses:<br>
+Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer at the CUNY Graduate School of Public Health, teaching foundational and advanced analytical techniques to graduate-level students. She taught the following courses:<br>
   * BIOS 620: Applied Biostatistics I<br>
   * PUBH 614: Quantitative and Qualitative Research Methods<br>
   * PUBH 696: Supervised Fieldwork<br>
+
+In 2026, she also taught at Columbia University, Mailman School of Public Health the following course:<br>
+  * P6777: Data Visualization & Storytelling<br>
 <br>
 <br>
 
@@ -100,10 +103,6 @@ Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CU
     <img src='https://private-user-images.githubusercontent.com/156098598/400891630-dfafee91-b58f-45df-a10a-4fbecc8ef66b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzc4MjcsIm5iZiI6MTczNjI3NzUyNywicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODkxNjMwLWRmYWZlZTkxLWI1OGYtNDVkZi1hMTBhLTRmYmVjYzhlZjY2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTE4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NDBlYzc1NDUyZmMwMmY0NGFkNDc1YjQ0YWFiMTVmZjdiNWU2YmIyZDU5OTc2MzE4MGUwMmMyMWY0ZjgzNzM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VfoOVo5_sGExLCCH3GAruKmpfG7Fhd9PD4G4Loe6uDM' width ="25%">
   </a>
 
- ### 4. Palestine Dashboard
-<a href='https://public.tableau.com/app/profile/lisa.hitch/viz/SilencedLivesPalestineinNumbers/Dashboard_1'>
-    <img src='https://private-user-images.githubusercontent.com/156098598/400891957-2559c7b5-a45c-4e92-acd6-37edaa0194f7.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzc5MTIsIm5iZiI6MTczNjI3NzYxMiwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODkxOTU3LTI1NTljN2I1LWE0NWMtNGU5Mi1hY2Q2LTM3ZWRhYTAxOTRmNy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTIwMTJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1iZDFlNzZjODI1MzhlMmQxNTIzMDBiNWVmMzdjODc0Y2NhNzIwZjQ0NjE0OTI3ZWJkMWExMTIwZTI3MmEzMzRmJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.soikUhCtjrhkiYFDptzCQo3XA5GsL2Kq6Q6PD58ZJCY' width ="25%">
-  </a> 
 
 ## Blog Articles
 ### Tableau
@@ -134,10 +133,11 @@ Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer for at the CU
 * [The Power of Asking Questions](https://www.thedataschool.co.uk/lisa-hitch/the-power-of-questions/)
 * [What does a Data Consultant do?](https://www.thedataschool.co.uk/lisa-hitch/what-does-a-data-consultant-do/)
 
-## 📫 Contact
-**What do we have in common?** <br>
-Do we have any hobbies in common? I enjoy rock climbing, traveling, playing tennis and squash, and finding the best cup of coffee in NYC.
-I'd be happy to connect with you on LinkedIn and find out what we DO have in common! 😊 
+## 📫 Contact & Find more of me
+Do you enjoy my content? You may also find me on LinkedIn, Instagram and TikTok under @the.data.coach.
+Do we have any hobbies in common? I enjoy flying trapeze, rock climbing, and finding the best cup of coffee in NYC.
 
 - [LinkedIn](https://www.linkedin.com/in/lisa-hitch/)
+- [TikTok](https://www.tiktok.com/@the.data.coach)
+- [Instagram](https://www.instagram.com/the.data.coach/)
 - [GitHub](https://github.com/lisahitchlh)
