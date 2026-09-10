@@ -90,6 +90,25 @@ Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, w
 <br>
 <br>
 
+
+## ⭐ Data Viz Projects
+[Click to see Lisa's Tableau Public](https://public.tableau.com/app/profile/lisa.hitch/vizzes)
+<br>
+
+### 1. Events Calendar
+<img width="700" height="450" alt="Dashboard" src="https://github.com/user-attachments/assets/414fa8ed-8e4a-4c99-b6a4-900803ce43a7" />
+
+
+
+### 2. Tableau Visual Resume
+<a href="https://public.tableau.com/app/profile/lisa.hitch/viz/InteractiveResumeLisaHitch2/Resume">
+    <img src="https://github.com/lisahitchlh/lisahitchlh/assets/156098598/d904c67f-8210-4382-8260-34e973ad1813" width ="25%">
+  </a>
+
+### 3. Business Dashboard
+<img width="750" height="450" alt="Calls Dashbaord" src="https://github.com/user-attachments/assets/ecbfc4a1-adaf-443e-a01a-e7a8dad5d33c" />
+
+
 ## 📨 Certifications 
 
 <a href="https://www.credly.com/badges/19f7cd71-4653-4281-8593-3228a2c9ca4b/embedded">
@@ -117,25 +136,6 @@ Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, w
 </a>
 <br>
 <br>
-
-## ⭐ Data Viz Projects
-[Click to see Lisa's Tableau Public](https://public.tableau.com/app/profile/lisa.hitch/vizzes)
-<br>
-
-### 1. Events Calendar
-<img width="1400" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/414fa8ed-8e4a-4c99-b6a4-900803ce43a7" />
-
-
-
-### 2. Tableau Visual Resume
-<a href="https://public.tableau.com/app/profile/lisa.hitch/viz/InteractiveResumeLisaHitch2/Resume">
-    <img src="https://github.com/lisahitchlh/lisahitchlh/assets/156098598/d904c67f-8210-4382-8260-34e973ad1813" width ="25%">
-  </a>
-
-### 3. Business Dashboard
-<a href='https://public.tableau.com/app/profile/lisa.hitch/viz/CallAnalysisDashboard_17054244406490/CallsDashbaord'>
-    <img src='https://private-user-images.githubusercontent.com/156098598/400891630-dfafee91-b58f-45df-a10a-4fbecc8ef66b.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzc4MjcsIm5iZiI6MTczNjI3NzUyNywicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODkxNjMwLWRmYWZlZTkxLWI1OGYtNDVkZi1hMTBhLTRmYmVjYzhlZjY2Yi5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTE4NDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT02NDBlYzc1NDUyZmMwMmY0NGFkNDc1YjQ0YWFiMTVmZjdiNWU2YmIyZDU5OTc2MzE4MGUwMmMyMWY0ZjgzNzM0JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.VfoOVo5_sGExLCCH3GAruKmpfG7Fhd9PD4G4Loe6uDM' width ="25%">
-  </a>
 
 
 ## Blog Articles
