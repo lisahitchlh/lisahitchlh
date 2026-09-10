@@ -40,7 +40,7 @@ Outside of work, Lisa enjoys flying trapeze, traveling, and finding the best cup
 
   Lisa worked with a hedge fund for a 3-month period, serving as Center of Excellence for Tableau. During this engagement, she provided more than 18 ad-hoc office hours, over 50 hours of 1-on-1 Tableau teaching sessions, and conducted 4 small group workshops on topics such as Data Modeling, Data Calculations & Parameters, LODs & Table Calculations, and Tableau Server Fundamentals. In addition to training, she built 7 dashboards for trading and corporate access relationships, saving more than 350 hours of manual data updates annually.
   
-</details> <br>
+</details>
 
 <details>
   <summary>Case Study 3: Consulting at an Investment Bank</summary>
@@ -123,9 +123,8 @@ Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, w
 <br>
 
 ### 1. Events Calendar
-<a href='https://public.tableau.com/app/profile/lisa.hitch/viz/CorporateAccessCalendar/Dashboard'>
-    <img src='https://private-user-images.githubusercontent.com/156098598/400888729-d4e2e2d9-7b4c-47fb-bbef-4aa6256230e5.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNzcxNTQsIm5iZiI6MTczNjI3Njg1NCwicGF0aCI6Ii8xNTYwOTg1OTgvNDAwODg4NzI5LWQ0ZTJlMmQ5LTdiNGMtNDdmYi1iYmVmLTRhYTYyNTYyMzBlNS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMTA3JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDEwN1QxOTA3MzRaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNzhlMTI5ZTdmNDg5OTAzNDRlODZhYmIwMDFhYTQ4MmY2ZTZmMGY2YjYzMjE0MWYzN2E0Zjc4M2VlNzJhZDkyJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.MwwshzHa45aoqjQ1hDj_okINcIPPYpQhL5GVt5g3giE' width ="25%">
-  </a>
+<img width="1400" height="900" alt="Dashboard" src="https://github.com/user-attachments/assets/414fa8ed-8e4a-4c99-b6a4-900803ce43a7" />
+
 
 
 ### 2. Tableau Visual Resume
