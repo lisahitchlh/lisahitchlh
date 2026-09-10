@@ -1,9 +1,12 @@
+<img width="1400" height="349" alt="1779568595776" src="https://github.com/user-attachments/assets/19dc443c-1d3c-4e3b-b7ba-f288a8779f59" />
+
+
 # Hi and Welcome to my Data Portfolio👋
 <br>
 
 <p float="left">
 
-<img width="750" height="750" alt="medium_Lisa_69efaa55fb" src="https://github.com/user-attachments/assets/fefa011b-1700-41cd-b69a-7a64be7cb609" />
+<img width="350" height="350" alt="medium_Lisa_69efaa55fb" src="https://github.com/user-attachments/assets/fefa011b-1700-41cd-b69a-7a64be7cb609" />
 
 
 </p>
@@ -14,26 +17,40 @@
 
 ## Who is Lisa? <br>
 ### **Data Consultant** <br>
-Lisa is a Data Consultant at [The Information Lab](https://www.theinformationlab.com/) specializing in helping clients find business insights with **Tableau**, automate workflows using **Alteryx**, and optimize data modeling through **SQL**. She also brings skills from a variety of other statistical and coding software such as **R**, **SAS**, **SPSS**, and **Python**. 
-At the forefront of her consultancy philosophy is teaching and breaking down complex topics into simple, understandable, and manageable steps. She thrives on sharing her knowledge, offering tailored training sessions, and mentoring clients to build their own data analytics capabilities with confidence. 
+Lisa coaches the new generation of data consultants at [The Information Lab](https://www.theinformationlab.com/). She trains consultants in  **Tableau, Alteryx, SQL, and PowerBI**, while also building consulting skills including: presenting insights, stakeholder communication, and time and project management. 
+
+Her coaching is grounded in her hands-on consulting experience prior to moving into a coaching-focused role. Lisa worked directly with clients across the financial industry, focused on Tableau Enablement, building Tableau reports, improving the adoption of existing reports, optimizing data pipelines in SQL and Alteryx, and ensuring scalability and maintainability of existing infrastructures, e.g. Tableau Servers. She also brings skills from a variety of other statistical and coding software such as **R**, **SAS**, **SPSS**, and **Python**. 
+
+At the forefront of her consultancy and teaching philosophy is her passion for breaking down complex topics into simple, understandable, and manageable steps. She thrives on sharing her knowledge, offering tailored training sessions, and mentoring clients to build their own data analytics capabilities with confidence. 
+
+Lisa's background in public health informs her approach to data consultancy, particularly her focus on decision-making and responsible data use. She is currently pursuing her PhD in Community Health at the CUNY Graduate School of Public Health, where her research focuses on the adoption of Generative AI in health contexts.
+
+Outside of work, Lisa enjoys flying trapeze, traveling, and finding the best cup of coffee in NYC.
+
 
 <details>
-  <summary>Case Study 1: Consulting at a large bank</summary>
+  <summary>Case Study 1: Consulting in Consumer Banking</summary>
   
-  During a 5-month engagement with a large bank's Analytics Enablement team, Lisa utilized SQL to optimize Tableau workbook performance through database-side using joins, ETCs, and filtering. She then built dashboards on SLA performance, customer language preferences, and exploration tools for trusted data sources. To streamline development, Lisa created a Tableau dashboard template and iterated it based on business needs in collaboration with business stakeholders and data analysts. Additionally, she developed and led a customized 3-part interactive workshop series, covering Tableau topics from beginner to advanced, including breadcrumbing for parameters and filters and dynamic zone visibility.
+  During a 5-month engagement with a large bank's Analytics Enablement team, Lisa utilized SQL to optimize Tableau workbook performance on the database-side using joins, ETCs, and filtering. She then built dashboards on SLA performance, customer language preferences, and exploration tools for trusted data sources. To streamline development, Lisa created a Tableau dashboard template and iterated it based on business needs in collaboration with business stakeholders and data analysts. Additionally, she developed and led a customized 3-part interactive workshop series, covering Tableau topics from beginner to advanced, including breadcrumbing for parameters/filters and dynamic zone visibility.
   
 </details> 
 
 <details>
   <summary>Case Study 2: Consulting at a hedgefund</summary>
-  
 
   Lisa worked with a hedge fund for a 3-month period, serving as Center of Excellence for Tableau. During this engagement, she provided more than 18 ad-hoc office hours, over 50 hours of 1-on-1 Tableau teaching sessions, and conducted 4 small group workshops on topics such as Data Modeling, Data Calculations & Parameters, LODs & Table Calculations, and Tableau Server Fundamentals. In addition to training, she built 7 dashboards for trading and corporate access relationships, saving more than 350 hours of manual data updates annually.
   
 </details> <br>
 
+<details>
+  <summary>Case Study 3: Consulting at an Investment Bank</summary>
+  At Capital Markets of a large Canadian bank, Lisa delivered more than 18 hours of workshops, hosted weekly Tableau office hours, and provided over 50 hours of 1:1 support to upskill the existing team. She built 7 dashboards for stakeholders across the business and advised on best practices for Tableau Server management, documentation, and maintaining lean, scalable workbooks.
+  
+</details> <br>
+
+
 ### **PhD Candidate**<br>
-Currently pursuing her PhD in Community Health at the [CUNY Graduate School of Public Health](https://sph.cuny.edu/), her dissertation focuses on how people leverage GenAI to access health information.
+Currently pursuing her PhD in Community Health at the [CUNY Graduate School of Public Health](https://sph.cuny.edu/), her dissertation focuses on how people leverage GenAI to access health information. She received the CUNY Graduate School of Public Health Dean's Dissertation Grant as funding for her research.
 <details>
   <summary>Publications</summary>
   
@@ -53,6 +70,23 @@ Since 2023, Lisa has been enjoying her work as an Adjunct Lecturer at the CUNY G
 
 In 2026, she also taught at Columbia University, Mailman School of Public Health the following course:<br>
   * P6777: Data Visualization & Storytelling<br>
+<br>
+<br>
+
+### **The Data Coach** <br>
+To achieve a greater reach in sharing her knowledge, Lisa founded "The Data Coach" on Instagram and Tiktok, where she's sharing daily videos on career transitions, the data industry, data visualization tips, various data tools such as Tableau, and some corporate humor.<br> 
+
+- [TikTok](https://www.tiktok.com/@the.data.coach)
+- [Instagram](https://www.instagram.com/the.data.coach/)
+
+<br>
+<br>
+
+### **Data+Women NYC Co-Lead** <br>
+Since 2024, Lisa has been a co-lead for the Data+Women NYC Tableau User Group, where she helps organize quarterly hybrid meet-ups with rotating guest speakers and themes.<br> 
+
+- [Data+Women NYC](https://usergroups.tableau.com/data-women-nyc/)
+
 <br>
 <br>
 
@@ -139,6 +173,4 @@ Do you enjoy my content? You may also find me on LinkedIn, Instagram and TikTok 
 Do we have any hobbies in common? I enjoy flying trapeze, rock climbing, and finding the best cup of coffee in NYC.
 
 - [LinkedIn](https://www.linkedin.com/in/lisa-hitch/)
-- [TikTok](https://www.tiktok.com/@the.data.coach)
-- [Instagram](https://www.instagram.com/the.data.coach/)
 - [GitHub](https://github.com/lisahitchlh)
