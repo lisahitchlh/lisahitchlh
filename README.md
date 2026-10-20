@@ -16,7 +16,7 @@
 ---
 
 ## Who is Lisa? <br>
-### **Data Consultant** <br>
+### **Data Consultant & Coach** <br>
 Lisa coaches the new generation of data consultants at [The Information Lab](https://www.theinformationlab.com/). She trains consultants in  **Tableau, Alteryx, SQL, and PowerBI**, while also building consulting skills including: presenting insights, stakeholder communication, and time and project management. 
 
 Her coaching is grounded in her hands-on consulting experience prior to moving into a coaching-focused role. Lisa worked directly with clients across the financial industry, focused on Tableau Enablement, building Tableau reports, improving the adoption of existing reports, optimizing data pipelines in SQL and Alteryx, and ensuring scalability and maintainability of existing infrastructures, e.g. Tableau Servers. She also brings skills from a variety of other statistical and coding software such as **R**, **SAS**, **SPSS**, and **Python**. 
